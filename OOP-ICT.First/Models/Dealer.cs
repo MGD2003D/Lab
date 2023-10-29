@@ -11,7 +11,7 @@
             PerfectShuffle();
         }
 
-        // Реализация алгоритма Perfect Shuffle (пока пустая)
+    
         private void PerfectShuffle()
         {
                 List<Card> tempDeck = new List<Card>();
